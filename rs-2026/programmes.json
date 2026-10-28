@@ -1,0 +1,288 @@
+{
+  "genere_le": "2026-10-28",
+  "canaux": {
+    "facebook": {
+      "id": "6ae1e7e72f1f5ed648fb3a94",
+      "nom": "PSB Partners"
+    },
+    "instagram": {
+      "id": "6ae1e6f52f1f5ed648fb2f76",
+      "nom": "psb_partners"
+    }
+  },
+  "programmes": [
+    {
+      "post": 1,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e8fd63bb1a485a2e6b68",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "statut": "scheduled (déjà existant, non recréé)"
+    },
+    {
+      "post": 1,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e93d38e33389fb61997c",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 3,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e90a38e33389fb618b26",
+      "dueAt": "2026-11-07T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 3,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e90c38e33389fb618bf6",
+      "dueAt": "2026-11-07T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 4,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e90e38e33389fb618ca0",
+      "dueAt": "2026-11-10T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 4,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e949d47ee8ef2fb82a8f",
+      "dueAt": "2026-11-10T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 6,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e911f8d0c164b1653e05",
+      "dueAt": "2026-11-14T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 6,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e912d47ee8ef2fb8159f",
+      "dueAt": "2026-11-14T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 7,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e914768df719cebe048e",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 7,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e94a768df719cebe1783",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 9,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e917f8d0c164b1653f57",
+      "dueAt": "2026-11-21T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 9,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e91963bb1a485a2e72f2",
+      "dueAt": "2026-11-21T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 10,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e91bd47ee8ef2fb818de",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 10,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e94cdee6d1a87ac3a079",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 12,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e91e63bb1a485a2e759f",
+      "dueAt": "2026-11-28T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 12,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e91f38e33389fb61909b",
+      "dueAt": "2026-11-28T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 13,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e92138e33389fb61910d",
+      "dueAt": "2026-12-01T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 13,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e94edee6d1a87ac3a117",
+      "dueAt": "2026-12-01T17:30:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 15,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": "6ae1e924768df719cebe0a6b",
+      "dueAt": "2026-12-05T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 15,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": "6ae1e926f8d0c164b16542dc",
+      "dueAt": "2026-12-05T09:00:00.000Z",
+      "statut": "scheduled"
+    },
+    {
+      "post": 16,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-08T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)",
+      "erreur": "LimitReachedError: Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
+    },
+    {
+      "post": 16,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-08T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 18,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-12T09:00:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 18,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-12T09:00:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 19,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-15T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 19,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-15T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 21,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-19T09:00:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 21,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-19T09:00:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 22,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-22T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 22,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-22T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 24,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-26T09:00:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 24,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-26T09:00:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 25,
+      "canal": "facebook",
+      "channelId": "6ae1e7e72f1f5ed648fb3a94",
+      "id": null,
+      "dueAt": "2026-12-29T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    },
+    {
+      "post": 25,
+      "canal": "instagram",
+      "channelId": "6ae1e6f52f1f5ed648fb2f76",
+      "id": null,
+      "dueAt": "2026-12-29T17:30:00.000Z",
+      "statut": "restant à programmer (limite du plan gratuit)"
+    }
+  ]
+}
